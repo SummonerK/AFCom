@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'AFCom/Classes/**/*'
+  s.source_files = 'AFCom/AFCom/Classes/**/*'
   
   # s.resource_bundles = {
   #   'AFCom' => ['AFCom/Assets/*.png']
