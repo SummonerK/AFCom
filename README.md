@@ -22,7 +22,7 @@ pod 'AFCom'
 
 ## Author
 
-luofei, solluffy@163.com
+lofi, solluffy@163.com
 
 ## License
 
