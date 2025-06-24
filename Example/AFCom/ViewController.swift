@@ -14,6 +14,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .meetingBlueColor
+        let label = UILabel()
+        label.font = .pingFangRegular(12)
         // Do any additional setup after loading the view, typically from a nib.
     }
 

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AFCom'
-  s.version          = '0.0.5'
+  s.version          = '0.0.6'
   s.summary          = 'A short description of AFCom.'
   s.description      = "Customizing Tool in Swift"
 
@@ -17,7 +17,8 @@ Pod::Spec.new do |s|
   s.author           = { 'lofi' => 'solluffy@163.com' }
   s.source           = { :git => 'https://github.com/SummonerK/AFCom.git', :tag => s.version.to_s }
   s.ios.deployment_target = '10.0'
-  s.source_files = "AFCom/Classes/**/*.{h,m,swift}"
+  s.source_files = "AFCom/Classes/**/*.{h,m,swift}",
+                   "Sources/UIExt/**/*.{h,m,swift}"
   # s.resource_bundles = {
   #   'AFCom' => ['AFCom/Assets/*.png']
   # }
