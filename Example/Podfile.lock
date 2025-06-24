@@ -1,5 +1,5 @@
 PODS:
-  - AFCom (0.0.3)
+  - AFCom (0.0.4)
 
 DEPENDENCIES:
   - AFCom (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AFCom: 425a590baa2601bfc54cf7a7b3d2f4812e84a56d
+  AFCom: b715d12636ae2fec73257b8c7cd5c9a6df9f6cf2
 
 PODFILE CHECKSUM: d31e39edfce993886650768f54bc7d0d74e6c932
 
