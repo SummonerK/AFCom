@@ -18,5 +18,5 @@
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "AFCom/Classes/**/*"
+  "source_files": "AFCom/Classes/**/*.{h,m,swift}"
 }
